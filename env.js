@@ -37,7 +37,7 @@ require('dotenv').config({
 
 const BUNDLE_ID = 'com.roastit'; // ios bundle id
 const PACKAGE = 'com.roastit'; // android package name
-const NAME = 'RoastIt'; // app name
+const NAME = 'Roast It'; // app name
 const EXPO_ACCOUNT_OWNER = 'hitmakers'; // expo account owner
 const EAS_PROJECT_ID = '4a41914a-db10-4b00-aab2-afc3c98eb502'; // eas project id
 const SCHEME = 'RoastIt'; // app scheme
